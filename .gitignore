@@ -2,4 +2,5 @@
 .idea/
 __pycache__
 .ipynb_checkpoints/
+pub2/MNIST_data/
 
